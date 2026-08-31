@@ -23,6 +23,11 @@ public class Dinossauro
         this.periodo = periodo;
  
     }
+    public override string ToString()
+    {
 
+        return "nome:" + Nome + "\nperiodo:" + periodo;
+
+    }
     
 }

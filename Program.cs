@@ -1,0 +1,5 @@
+Dinossauro dinossauro1 = new Dinossauro("T-Rex", "Cretáceo")
+Dinossauro dinossauro2 = new Dinossauro("Giganotossauro", "Cretáceo")
+
+Console.WriteLine(dinossauro1);
+Console.WriteLine(dinossauro2);
