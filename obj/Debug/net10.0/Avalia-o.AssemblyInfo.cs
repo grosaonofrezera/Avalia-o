@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avalia-o")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ad61cd172935676ecb2e8db35378ef4a90892a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcfc32bceca0f9101f54539901bfef3a412c9c20")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avalia-o")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avalia-o")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
