@@ -1,0 +1,15 @@
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\Avalia-o.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\Avalia-o.AssemblyInfoInputs.cache
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\Avalia-o.AssemblyInfo.cs
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\Avalia-o.csproj.CoreCompileInputs.cache
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\Avalia-o.sourcelink.json
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\bin\Debug\net10.0\Avalia-o.exe
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\bin\Debug\net10.0\Avalia-o.deps.json
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\bin\Debug\net10.0\Avalia-o.runtimeconfig.json
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\bin\Debug\net10.0\Avalia-o.dll
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\bin\Debug\net10.0\Avalia-o.pdb
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\Avalia-o.dll
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\refint\Avalia-o.dll
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\Avalia-o.pdb
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\Avalia-o.genruntimeconfig.cache
+C:\Users\Aline Rosa\Documents\GitHub\Avalia-o\obj\Debug\net10.0\ref\Avalia-o.dll
