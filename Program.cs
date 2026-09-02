@@ -14,7 +14,7 @@ Console.WriteLine(fossil2);
 
 Console.WriteLine("====================================================");
 
-Console.WriteLine("   🦴Museus🦴   ");
+Console.WriteLine("   🏦Museus🏦   ");
 Console.WriteLine(museu1);
 Console.WriteLine("---------------------");
 Console.WriteLine(museu2);
